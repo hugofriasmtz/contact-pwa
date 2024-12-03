@@ -1,0 +1,23 @@
+{
+  "name": "Agenda de Contactos",
+  "short_name": "AgendaC",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "Una aplicación para gestionar tus contactos de manera eficiente.",
+  "lang": "es",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/img/pwa/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/pwa/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
