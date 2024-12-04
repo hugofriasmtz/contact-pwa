@@ -67,3 +67,6 @@ gulpfile.tmp.*
 
 # Package Lock files
 /package-lock.json
+
+#settings.env
+app/Core/settings.env
